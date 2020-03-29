@@ -1,7 +1,7 @@
 # Lenguaje GO
-Es un lenguaje de programación creado por Google, fue creado con el proposito de resolver problemas internos de GOOGLE sin saber que a largo plazo escalo al universo del desarrollo.
+Es un lenguaje de programación creado por Google, fue creado con el proposito de resolver problemas internos de GOOGLE sin saber que a largo plazo iba a escalar al universo del desarrollo.
 
-Alguna de sus características importantes son: 
+Alguna de sus **características** importantes son: 
 - Go es fuertemente tipado.
 - Hereda su CORE de C++.
 - Es un lenguaje compilado y puede generar archivos .exe .
